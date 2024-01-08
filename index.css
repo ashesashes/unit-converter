@@ -56,7 +56,6 @@ body {
     flex-direction: column; 
     background-color: #1F2937; 
     max-width: 550px;
-    height: 400px;
     margin-left: auto; 
     margin-right: auto; 
     padding-top: 36px; 
@@ -67,8 +66,7 @@ body {
     border-radius: 5px;  
     margin-bottom: 23px; 
     margin-left: 25px;
-    margin-right: 25px; 
-    height: 108px; 
+    margin-right: 25px;  
     max-width: 500px; 
     align-items: center; 
     justify-content: center; 
